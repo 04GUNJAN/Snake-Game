@@ -18,16 +18,8 @@ turtle (built-in)
 Pillow (for image conversion)
 
 # Install Pillow using pip if not already installed:
-bash
-Copy code
+bash Copy code
 pip install pillow
-
-# How to Run
-Clone the Repository:
-bash
-Copy code
-git clone https://github.com/your-username/snake-game.git
-cd snake-game
 
 # Controls
 Arrow Keys:
