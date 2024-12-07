@@ -18,8 +18,7 @@ turtle (built-in)
 Pillow (for image conversion)
 
 # Install Pillow using pip if not already installed:
-bash Copy code
-pip install pillow
+bash Copy code - pip install pillow
 
 # Controls
 Arrow Keys:
